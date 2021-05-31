@@ -1,0 +1,15 @@
+
+#container {
+    position: relative;
+    height: 668px;
+  }
+  .stats-wrapper{
+    position: absolute;
+    left: 0;
+    min-height: 100px;
+  }
+  .gui-wrapper{
+    position: absolute;
+    right: 0;
+    min-height: 100px;
+  }
